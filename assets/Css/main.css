@@ -1,0 +1,126 @@
+.copyclass
+{
+	font-weight: bolder;
+}
+.blogclass
+{
+	 background-color: white;
+}
+.wordclass
+{
+	font-size: 15px;
+}
+.maincontainer
+{
+	padding-left: 0px;
+	padding-right: 0px;
+}
+.headerclass
+{
+	overflow: hidden;
+    z-index: 9999;
+    position: relative;
+}
+.navsection
+{
+    background-image: none;
+    background-color: white;
+    border: none;
+    margin-bottom: 0px;
+   	position: fixed;
+    width: 100%;
+    border-radius: 0;
+    left: 0;
+    right: 0;
+    
+}
+.imagepart
+{
+	background-image: url('D:/Sukanya Task/Task5 - Blogtry/assets/Images/magazine.jpg');
+	background-size: 80%;
+	width: 100%;
+	height: 70%;
+	
+}
+.textclass
+{
+	font-size: 55px;
+	font-family: cursive;
+	font-weight: lighter;
+	padding: 90px;
+
+}
+.textclass p
+{
+	font-size: 15px;
+	font-weight: bold;
+	font-family: serif;
+}
+.readsection
+{
+	margin-top: 90px;
+}
+.gettextclass,.btnclass
+{
+	display: inline;
+}
+.gettextclass
+{
+	font-size: 40px;
+	font-weight: lighter;
+}
+.btnclass
+{
+	padding: 30px 60px 30px 60px;
+    border-radius: 0;
+    color: white;
+    background-color: rgba(41, 101, 154, 0.97);
+    background-image: none;
+    margin-top: 16px;
+}
+.btnclass:hover
+{
+	background-color: rgba(42, 91, 133, 0.97);
+	color: white;
+}
+.textread
+{
+	margin-bottom: 50px;
+}
+.blogtexts
+{
+	clear: both;
+	width: 100%;
+}
+.blogtext1,.blogtext2,.blogtext3
+{
+	margin: 10px;
+    padding: 10px;
+    display: inline-block;
+    width: 31%;
+    text-align: justify;
+}
+.readsection
+{
+	margin-bottom: 70px;
+}
+.solutionclass
+{
+	background-color: rgba(238, 238, 238, 0.68);
+	text-align: center;
+	height: 60%;
+	padding: 60px;
+	font-size: 20px;
+}
+.solnfor,.onlineclass,.buildclass,.valueclass
+{
+	padding-bottom: 25px;
+}
+.onlineclass
+{
+	font-size: 30px;
+}
+
+
+
+
